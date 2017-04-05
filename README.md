@@ -1,6 +1,6 @@
 # Pokemon-Crawler
 
-It is a python scrapy web crawler using which you can download pictures of around 1000 pokemon( it features all generations of pokemons). Sounds cool right :P
+It is a python scrapy web crawler using which you can download pictures of around 1000 pokemon( it features all generations of pokemons). 
 
 Given below are the some of the tools to be installed in order to meet the requirements
 
